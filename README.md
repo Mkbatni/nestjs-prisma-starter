@@ -8,6 +8,7 @@ A simple REST API built with **NestJS** and **Prisma ORM**, using **SQLite** for
 [![Watch Demo](./assets/loom-demo.png)](https://www.loom.com/share/ef99ce61f136453cb59c12002624f2ff)
 
 
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
