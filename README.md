@@ -5,7 +5,9 @@ A simple REST API built with **NestJS** and **Prisma ORM**, using **SQLite** for
 
 ## 🎥 Demo
 
-[![Watch Demo](./assets/loom-demo.png)](https://www.loom.com/share/ef99ce61f136453cb59c12002624f2ff)
+[![Watch Demo](./assets/loom-demo.png)](https://www.loom.com/share/926632a6d1f243c598791c7bd7444899?sid=6a71e698-da6e-499e-bc95-d0293380a3f5)
+
+
 
 
 
