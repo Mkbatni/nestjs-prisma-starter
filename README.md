@@ -2,6 +2,13 @@
 
 A simple REST API built with NestJS, using Prisma as the ORM and SQLite as the database.
 
+## 🎥 Demo
+
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/ef99ce61f136453cb59c12002624f2ff-with-play.gif)](https://www.loom.com/embed/ef99ce61f136453cb59c12002624f2ff?sid=5224b24c-742a-47a2-85c4-94541831613)
+
+> Click the thumbnail above or [watch the demo on Loom](https://www.loom.com/embed/ef99ce61f136453cb59c12002624f2ff?sid=5224b24c-742a-47a2-85c4-94541831613)
+
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
@@ -65,8 +72,6 @@ http://localhost:3000/api
 6. Click "Execute" to send the request
 7. View the response and status code
 
-### Video Tutorial
-<div style="position: relative; padding-bottom: 63.010501750291716%; height: 0;"><iframe src="https://www.loom.com/embed/ef99ce61f136453cb59c12002624f2ff?sid=5224b24c-742a-47a2-85c4-945418316135" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Validation Rules
 The API includes automatic request validation:
