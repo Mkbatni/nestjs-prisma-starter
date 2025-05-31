@@ -1,12 +1,11 @@
 # NestJS User API with Prisma and SQLite
 
-A simple REST API built with NestJS, using Prisma as the ORM and SQLite as the database.
+A simple REST API built with **NestJS** and **Prisma ORM**, using **SQLite** for development. Includes full CRUD operations and Swagger documentation—ideal for take-home assignments or starter backend projects.
+
 
 ## 🎥 Demo
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/ef99ce61f136453cb59c12002624f2ff-with-play.gif)](https://www.loom.com/embed/ef99ce61f136453cb59c12002624f2ff?sid=5224b24c-742a-47a2-85c4-94541831613)
-
-> Click the thumbnail above or [watch the demo on Loom](https://www.loom.com/embed/ef99ce61f136453cb59c12002624f2ff?sid=5224b24c-742a-47a2-85c4-94541831613)
+[![Watch Demo](./assets/loom-demo.png)](https://www.loom.com/share/ef99ce61f136453cb59c12002624f2ff)
 
 
 ## Prerequisites
