@@ -42,6 +42,39 @@ npm run build
 npm run start:prod
 ```
 
+## API Documentation with Swagger
+
+The API documentation is available through Swagger UI at:
+```
+http://localhost:3000/api
+```
+
+### Features
+- Interactive API documentation
+- Try out API endpoints directly from the browser
+- View request/response schemas
+- See validation rules and examples
+- Test API endpoints with different parameters
+
+### Using Swagger UI
+1. Open `http://localhost:3000/api` in your browser
+2. You'll see all available endpoints grouped by tags
+3. Click on any endpoint to expand its details
+4. Click "Try it out" to test the endpoint
+5. Fill in the required parameters and request body
+6. Click "Execute" to send the request
+7. View the response and status code
+
+### Video Tutorial
+<div style="position: relative; padding-bottom: 63.010501750291716%; height: 0;"><iframe src="https://www.loom.com/embed/ef99ce61f136453cb59c12002624f2ff?sid=5224b24c-742a-47a2-85c4-945418316135" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+### Validation Rules
+The API includes automatic request validation:
+- User name must be at least 2 characters long
+- Email must be in a valid format
+- All required fields must be provided
+- Invalid requests will return 400 Bad Request with validation errors
+
 ## Database Management
 
 ### Prisma Studio
@@ -129,6 +162,8 @@ curl -X DELETE http://localhost:3000/users/1
 - The API follows RESTful principles
 - TypeScript is used for type safety
 - Email addresses are enforced to be unique across all users
+- Swagger UI provides interactive API documentation
+- Request validation is handled automatically using class-validator
 
 ## Testing
 
